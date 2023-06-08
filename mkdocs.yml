@@ -1,6 +1,6 @@
 site_name: Incident Response
-site_url: https://cmdcndexternal.github.io/IncidentResponse
-repo_url: https://github.com/cmdcndexternal/IncidentResponse
+site_url: https://azcjtf.github.io/IncidentResponse
+repo_url: https://github.com/azcjtf/IncidentResponse
 edit_uri: edit/main/docs
 theme:
   name: material
