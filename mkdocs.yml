@@ -1,4 +1,4 @@
-site_name: Incident Response
+site_name: AZCJTF Incident Response
 site_url: https://azcjtf.github.io/IncidentResponse
 repo_url: https://github.com/azcjtf/IncidentResponse
 edit_uri: edit/main/docs
@@ -254,3 +254,4 @@ nav:
   - Reference Documents: 
     - Reference Documents: ReferenceDocuments/README.md
     - PowerShell Commands: ReferenceDocuments/PowerShell_Commands.md
+    - Working with Repo: ReferenceDocuments/Ref.WorkingWithRepo.md
