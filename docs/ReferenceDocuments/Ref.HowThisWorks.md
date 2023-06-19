@@ -5,9 +5,9 @@ This page is meant to be a reference into how this site was created. Nothing mag
 The following solutions are used in the creation of this site. While the steps below can help you (re)create your own site, some research and familiarity will help you 'make it your own'.
 
 - Markdown: Markdown is a documentation markup language (think HTML) for creating documents using a streamlined syntax and toolset. All documents in this site are created using Markdown for formatting.
-- GitHub: Github is the document repository itself, and runs a CI/CD (action) job to build our MarkDown pages into pretty HTML pages.
-- GitHub.IO: This is a free website hosting solution for GitHub housed documents.
-- MKDocs: MKDocs is used to convert the Markdown documentation into HTML formats. This allows for enhanced features in a more accessible format, along with themeing and styling not otherwise possible.
+- [GitHub](https://github.com): Github is the document repository itself, and runs a CI/CD (action) job to build our MarkDown pages into pretty HTML pages.
+- [GitHub.IO](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages): This is a free website hosting solution for GitHub housed documents.
+- [MKDocs](https://www.mkdocs.org): MKDocs is used to convert the Markdown documentation into HTML formats. This allows for enhanced features in a more accessible format, along with themeing and styling not otherwise possible.
 - DNS: Our old friend DNS. Its used to provide for a friendly URL to our site vs the github.io link. Totally optional.
 
 ## Getting started
