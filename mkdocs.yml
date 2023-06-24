@@ -126,7 +126,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: /index.md
+  - Home: index.md
   - 1.Preparation:
     - 1.Preparation: 1.Preparation/README.md
     - 1.01-Troop Leading Procedures: 1.Preparation/1.01-Troop_Leading_Procedures/README.md
