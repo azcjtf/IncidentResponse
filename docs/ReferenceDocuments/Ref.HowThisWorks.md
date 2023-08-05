@@ -52,3 +52,4 @@ jobs:
    5. Provide a commit message, for example 'Initial YAML creation'.
 4. Now go to the 'Settings' tab, and then 'Pages'.
 1. Create a DNS record. This is optional, but in 
+2. DSN record should be a cname pointing to the friendly name of the site.
